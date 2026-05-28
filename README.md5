@@ -24,7 +24,6 @@ This project implements a **centralized Master Orchestrator Pipeline** in Azure 
 
 ## Screenshots
 - Master Medallion Pipeline Overview  
-- 
 - Sequential Execute Pipeline activities
 - Error handling path
 - Successful pipeline run
