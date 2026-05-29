@@ -24,9 +24,13 @@ This project implements a **centralized Master Orchestrator Pipeline** in Azure 
 
 ## Screenshots
 - Master Medallion Pipeline Overview
-- Sequential Execute Pipeline activities
+- <img width="757" height="164" alt="image" src="https://github.com/user-attachments/assets/f916ed59-6c61-4ef8-8cab-e6b9291c4a46" />
 - Error handling path
+- <img width="646" height="333" alt="image" src="https://github.com/user-attachments/assets/a343b317-b0c8-46ba-bbeb-e263c3577bbb" />
+
 - Successful pipeline run
+- <img width="787" height="302" alt="image" src="https://github.com/user-attachments/assets/ee096301-d3a0-4a8b-9993-bc203874d10c" />
+
 
 ## How to Run
 1. Update all Linked Services and Datasets
