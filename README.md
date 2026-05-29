@@ -23,11 +23,11 @@ This project implements a **centralized Master Orchestrator Pipeline** in Azure 
 - Error Handling Framework
 
 ## Screenshots
-- [Master Medallion Orchestrator Pipeline](<img width="757" height="164" alt="image" src="https://github.com/user-attachments/assets/f916ed59-6c61-4ef8-8cab-e6b9291c4a46" />) Master Pipeline (pl_master_medallion_pipeline) coordinating Bronze → Silver → Gold layers using Execute Pipeline activities
+- [Master Medallion Orchestrator Pipeline]Master Pipeline (pl_master_medallion_pipeline) coordinating Bronze → Silver → Gold layers using Execute Pipeline activities(<img width="757" height="164" alt="image" src="https://github.com/user-attachments/assets/f916ed59-6c61-4ef8-8cab-e6b9291c4a46" />) 
 
-- [Error handling path](<img width="646" height="333" alt="image" src="https://github.com/user-attachments/assets/a343b317-b0c8-46ba-bbeb-e263c3577bbb" />)Failure path triggering centralized error handler (pl_error_handler)
-
-[Successful Pipeline Execution]- <img width="787" height="302" alt="image" src="https://github.com/user-attachments/assets/ee096301-d3a0-4a8b-9993-bc203874d10c" /> Successful debug run of the complete Medallion Pipeline
+- [Error handling path]Failure path triggering centralized error handler (pl_error_handler)(<img width="646" height="333" alt="image" src="https://github.com/user-attachments/assets/a343b317-b0c8-46ba-bbeb-e263c3577bbb" />)
+- 
+[Successful Pipeline Execution]-  Successful debug run of the complete Medallion Pipeline <img width="787" height="302" alt="image" src="https://github.com/user-attachments/assets/ee096301-d3a0-4a8b-9993-bc203874d10c" />
 
 
 ## How to Run
